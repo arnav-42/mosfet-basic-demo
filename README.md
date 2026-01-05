@@ -4,6 +4,8 @@ Interactive MOSFET drain current characteristics visualizer with real-time param
 
 **Live Demo [Here](https://www.arnav.id/assets/demos/mosfet-visualizer/)**
 
+![Screenshot of Demo](demo.png)
+
 ## Stack
 
 - **TypeScript**
